@@ -1,0 +1,6 @@
+1) docker ps
+2) docker ps -a
+3) docker inspect --format="{{.Mounts}}" $containerID
+4) docker container prune 
+5) docker volume prune
+6) docker volume create --name augusto
