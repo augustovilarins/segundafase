@@ -1,0 +1,9 @@
+1) Crie o repositório com o nome automacao01 na página do github \\ ou Crie um diretório no seu computador com o nome automacao01 e ultilize o comando '$git init'
+2) Clone o repositório com o comando '' $ git clone 'https://github.com/augustovilarins/automacao01.git' ''
+3) Faça as alterações desejadas nos arquivos
+4) Ultiliza o comando '$ git status' para verificar quais arquivos foram alterados 
+5) Ultilize o comando ' $ git add 'arquivo' ' para adicionar os arquivos que foram alterados
+6) Ultilize o comando ' $ git commit -m 'mensagem' ' para effetuar um commmit
+7) Ultilize o comando '$ git push origin 'master' ' para submeter suas alterações na branch ' master ' 
+8) Crie uma nova ramificação com o comando '$ git checkout ' trabalho '
+9) Mude para a nova ramificação com o comando ' $ git branch -b trabalho' 
